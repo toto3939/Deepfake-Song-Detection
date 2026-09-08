@@ -17,9 +17,9 @@ The workflow consists of the following steps:
 
 ## Dataset
 The dataset contains:
-•	training recordings labelled as real or fake
-•	an unlabeled test set
-•	ground-truth labels used for evaluation
+* training recordings labelled as real or fake
+* an unlabeled test set
+* ground-truth labels used for evaluation
 > **note:** The dataset is not included in this repository.
 
 ## Author
