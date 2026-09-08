@@ -22,9 +22,9 @@ The dataset contains:
 •	ground-truth labels used for evaluation
 > **note:** The dataset is not included in this repository.
 
-##Author
-**Antonio Treviglio**
-M.Sc. Music and Acoustic Engineering
+## Author
+**Antonio Treviglio**  
+M.Sc. Music and Acoustic Engineering  
 Politecnico di Milano
 
 
